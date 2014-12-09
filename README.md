@@ -24,24 +24,3 @@ Vehicle Cognition System is an intelligent software system that fits into the Pe
 5.	AngularJS
 6.	FireBase Database
 7.	Underscore
-
-# How It Works
-
-# Who Did What :
-
-Harsh Praful Dand:
-
-Worked on the basic framework of the application and have specifically focused on the actual simulation of the car navigation using Google Maps and Direction APIs.
-
-Wajid Baba Mohammad:
-
-Worked on populating the master table of each car , based on the cars in the vicinity that presently intersect the region around the host car , available from the intersection algorithms.
-
-Shiva Shankar Prakash:
-Worked on PubNub API for real time communication and using PubNub generated message channels & used firebase API to update the current car status & read the current positions of other moving objects &  notify the objects using PubNub.
-
-Anil Talla:
-worked on PubNub and Google Directions API,also worked on underscore
-
-Munshi Riaz:
-Worked on the Firebase Database to save scenarios data,and worked on path finding algorithm.
